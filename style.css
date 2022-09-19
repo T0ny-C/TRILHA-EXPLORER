@@ -43,7 +43,7 @@ header div {
 }
 
 header div:hover {/* quando ppassar o mouse em cima vai acontecer: */
-  transform: scale(1.3); /*mudar a escala do elemento   */
+  transform: scale(1.1); /*mudar a escala do elemento   */
 }
 
 header div img {
