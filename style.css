@@ -10,7 +10,7 @@ ul {
 }
 
 body {
-  background-image: url(./imagens/Fundo.jpg); /* url é uma funcção em css e dentro dos parentese digo o argumento que vou usar  */
+  background-image: url(./IMAGEM/Fundo.jpg); /* url é uma funcção em css e dentro dos parentese digo o argumento que vou usar  */
   background-position: top center ;
   background-size: 100%  auto; /* definido a imagem background em cem por cento a sua horizontalidade; e o auto é a imagem automatica ,no caso a altura vai ficar automatica */
   background-repeat: no-repeat;/* essa propriedade define quantas vezes o background vai se repetir  */
